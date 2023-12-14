@@ -1,0 +1,9 @@
+// .vscode/settings.json
+{
+  "eslint.format.enable": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.probe": ["javascript", "typescript", "vue"],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

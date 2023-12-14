@@ -1,0 +1,10 @@
+{
+  "name": "@aymfx-ui/hooks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "module": "index.ts",
+  "peerDependencies": {
+    "vue": ">=3.3.11"
+  }
+}
