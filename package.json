@@ -43,5 +43,10 @@
     "@aymfx-ui/utils": "workspace:*",
     "@types/lodash": "^4.14.202",
     "lodash": "^4.17.21"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
