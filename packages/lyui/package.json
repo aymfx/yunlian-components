@@ -1,7 +1,8 @@
 {
-  "name": "@lyui/components",
+  "name": "lyui",
   "version": "0.01",
-  "description": "一个组件库的组件列表",
+  "description": "一个组件库的工具",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

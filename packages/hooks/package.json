@@ -1,10 +1,14 @@
 {
-  "name": "@aymfx-ui/hooks",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.ts",
-  "module": "index.ts",
-  "peerDependencies": {
-    "vue": ">=3.3.11"
-  }
+  "name": "@lyui/hooks",
+  "version": "0.01",
+  "description": "一个组件库的钩子函数",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "component",
+    "element-plus"
+  ],
+  "author": "ly",
+  "license": "MIT"
 }

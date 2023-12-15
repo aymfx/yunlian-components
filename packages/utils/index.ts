@@ -1,1 +1,1 @@
-export * from './vue';
+export default {};
